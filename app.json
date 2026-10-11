@@ -1,11 +1,20 @@
 {
   "expo": {
     "name": "aplicacion-diario",
-    "slug": "aplicacion-diario",
+    "slug": "emigdio-yait-aguirre-martinez",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
-    "ios": { "supportsTablet": true },
-    "android": { "package": "com.diario.app" }
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.diario.app"
+    },
+    "extra": {
+      "eas": {
+      "projectId": "4c5c0655-288c-4bcf-ad87-6dacfa6db092"
+      }
+    }
   }
 }
