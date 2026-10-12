@@ -5,6 +5,14 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
+    "updates": {
+      "url": "https://u.expo.dev/4c5c0655-288c-4bcf-ad87-6dacfa6db092",
+      "enabled": true,
+      "fallbackToCacheTimeout": 0
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
     "ios": {
       "supportsTablet": true
     },
@@ -13,7 +21,7 @@
     },
     "extra": {
       "eas": {
-      "projectId": "4c5c0655-288c-4bcf-ad87-6dacfa6db092"
+        "projectId": "4c5c0655-288c-4bcf-ad87-6dacfa6db092"
       }
     }
   }
